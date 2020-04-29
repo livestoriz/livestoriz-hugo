@@ -21,9 +21,9 @@ enableRobotsTXT = true
 [params]
   favicon = ""
   description = "The last theme you'll ever need. Maybe."
-  facebook = ""
+  facebook = "https://www.facebook.com/Livestoriz"
   twitter = "https://twitter.com/livestoriz"
-  instagram = ""
+  instagram = "https://www.instagram.com/kovacs.alex1"
   youtube = ""
   github = ""
   gitlab = ""
@@ -32,4 +32,4 @@ enableRobotsTXT = true
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
   featured_image = "/images/gohugo-default-sample-hero-image.jpg"
-  recent_posts_number = 2
+  recent_posts_number = 10
